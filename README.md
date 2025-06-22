@@ -3,7 +3,7 @@
 This repository contains two complete projects:
 1. Movie Recommendation System
 2. Customer Churn Prediction Model 
-
+ 
 ## SCREENSHOTS OF PROJECT-
 https://drive.google.com/drive/folders/18ZoUBO9Qi_Sz1GDYyhaE8MeGnTfBmS3B?usp=sharing
 
