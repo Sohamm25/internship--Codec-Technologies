@@ -6,7 +6,7 @@ This repository contains two complete projects:
  
 ## SCREENSHOTS OF PROJECT-
 https://drive.google.com/drive/folders/18ZoUBO9Qi_Sz1GDYyhaE8MeGnTfBmS3B?usp=sharing
-
+ 
 ## 1. Movie Recommendation System
 
 A content-based movie recommendation system that suggests similar movies based on user preferences, built with Flask, scikit-learn, and NLP techniques.
