@@ -1,5 +1,5 @@
 # Data Science and Machine Learning Projects
-
+ 
 This repository contains two complete projects:
 1. Movie Recommendation System
 2. Customer Churn Prediction Model 
