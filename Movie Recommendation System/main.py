@@ -3,7 +3,7 @@ import pandas as pd
 from flask import Flask, render_template, request
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import pickle
+import pickle 
 import requests
 from bs4 import BeautifulSoup
 from scipy.sparse import csr_matrix
